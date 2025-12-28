@@ -1,4 +1,8 @@
 Project Name: Agri-Vet (Autonomous Livestock Hospital)
+
+**CAUTION(run this using kaggle notebook )
+
+
 1. The Problem Small-scale farmers in rural India often lack immediate access to veterinary doctors. A delay in diagnosis can lead to livestock mortality or reduced yield (milk/meat). Expert advice is often expensive or unavailable at night.
 
 2. The Solution Agri-Vet is an AI-powered triage system that acts as a "Virtual Hospital." It uses a Multi-Agent System to mimic a real medical team. Instead of just chatting, it "thinks" in steps to diagnose, prescribe, and schedule care for farm animals.
@@ -32,4 +36,3 @@ Safety First: It doesn't just guess; it runs code to verify that food recommenda
 Action-Oriented: It gives farmers a schedule, not just medical theory.
 
 Zero Latency: It provides expert-level advice in seconds, 24/7.
-**CAUTION(run this using kaggle notebook )
