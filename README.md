@@ -32,3 +32,4 @@ Safety First: It doesn't just guess; it runs code to verify that food recommenda
 Action-Oriented: It gives farmers a schedule, not just medical theory.
 
 Zero Latency: It provides expert-level advice in seconds, 24/7.
+**CAUTION(run this using kaggle notebook )
